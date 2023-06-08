@@ -1,0 +1,1 @@
+web: gunicorn issakaapi:app

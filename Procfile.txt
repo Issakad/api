@@ -1,2 +1,0 @@
-web: gunicorn issakaapi:app
- heroku ps:scale web=1 --app issakaapi
